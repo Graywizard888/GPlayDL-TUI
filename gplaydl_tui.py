@@ -1279,7 +1279,7 @@ def do_configure(cfg):
         opt_row(
             "2", "📁", "Output Directory ",
             col(C.BCYN, cfg["output_dir"]
-                or col(C.DIM, "(not set – uses ~/gplay)"))
+                or col(C.DIM, "(not set)"))
         )
         opt_row(
             "3", "🔗", "Dispenser Link   ",
