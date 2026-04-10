@@ -60,8 +60,8 @@ Place these JAR files in ~/gplay/bin/ before first run
 
 # 1. Clone the repository
 ```
-git clone https://github.com/yourusername/gplaydl-tui.git
-cd gplaydl-tui
+git clone https://github.com/Graywizard888/GPlayDL-TUI.git
+cd GPlayDL-TUI
 ```
 
 # 2. Make the script executable
