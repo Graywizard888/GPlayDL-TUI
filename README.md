@@ -162,7 +162,7 @@ auth_arm64.json.bak before any changes are applied."
 | Option | Settings | Description |
 |---------|-------------|----|
 | 1 | Prefer Split APKs | ON = download splits and merge · OFF = --no-splits |
-| 2 | Output Directory | Where to save the final APK (default: $HOME/gplay) |
+| 2 | Output Directory | Where to save the final APK (default: $HOME/GPlayDL-TUI) |
 | 3 | Dispenser Link | Custom token dispenser URL |
 | 4 | Skip Extras | ON = --skip-extras to skip OBB / patch files (recommended to off during downloading games) |
 | 5 | Architecture | arm64 · armv7 · or let gplaydl decide (default) |
