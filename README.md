@@ -175,7 +175,7 @@ auth_arm64.json.bak before any changes are applied."
 
 | Scheme | Status
 |---------|-------------|
-| V1 – JAR Signing | ✅ Enabled ( Required for android 1.0+ |
+| V1 – JAR Signing | ✅ Enabled ( Required for android 1.0+) |
 | V2 – APK scheme Signing | ✅ Enabled ( Required for Android 7.0+) |
 | V3 – APK scheme Signing | ✅ Enabled ( Required for Android 9.0+) |
 
