@@ -12,7 +12,7 @@ import urllib.request
 import urllib.error
 
 HOME          = os.path.expanduser("~")
-GPLAY_DIR     = os.path.join(HOME, "gplay")
+GPLAY_DIR     = os.path.join(HOME, "GPlayDL-TUI")
 BIN_DIR       = os.path.join(GPLAY_DIR, "bin")
 CONFIG_DIR    = os.path.join(GPLAY_DIR, ".config", "gplaydl-tui")
 CONFIG_FILE   = os.path.join(CONFIG_DIR, "config.json")
